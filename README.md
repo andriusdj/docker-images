@@ -31,4 +31,7 @@ TODO: clean up production and build images, adjust configs for production use (n
 ## NodeJS / Frontend projects
 tbc
 
-### ->>> Pull requests are welcome. <<<-
+# Contributing
+
+1) Please fork, create pull request.
+2) Please fork, have your docker hub account, add .env files from .env.dist with the docker hub credentials and docker repository names, run updateall.sh when done editing and the images should be built and uploaded to your repository.
