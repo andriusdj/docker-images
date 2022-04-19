@@ -1,0 +1,9 @@
+######################################################################
+#	Extra repositories for Debian GNU/Linux
+######################################################################
+
+### PHP
+deb https://packages.sury.org/php/ bullseye main
+
+### Nginx
+deb http://nginx.org/packages/mainline/debian bullseye nginx

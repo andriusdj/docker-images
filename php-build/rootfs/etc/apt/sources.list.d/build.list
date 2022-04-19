@@ -1,0 +1,9 @@
+######################################################################
+#	Extra repositories for Debian GNU/Linux
+######################################################################
+
+### NodeJs
+deb https://deb.nodesource.com/node_16.x buster main
+
+### Yarn
+deb https://dl.yarnpkg.com/debian/ stable main
