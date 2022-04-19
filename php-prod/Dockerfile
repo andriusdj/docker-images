@@ -37,7 +37,6 @@ RUN curl -fsSL https://nginx.org/keys/nginx_signing.key | apt-key add - ;\
         php${PHP_VERSION}-apcu \
         php${PHP_VERSION}-memcache \
         php${PHP_VERSION}-memcached \
-        php${PHP_VERSION}-xdebug \
         php${PHP_VERSION}-redis \
     && apt-get clean && apt-get autoclean
 
